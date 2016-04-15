@@ -1,2 +1,3 @@
-# natural_laguage_processing
-# natural_language_processing
+# Projects - Natural Language Processing
+
+- hashtag.py : split hashtags from a list of tweets
