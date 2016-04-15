@@ -26,7 +26,7 @@ def get_word(tag, dictionary):
     return None 
 
 # Load English dictionary
-dictionary = open('words.txt').read().split('\n')
+dictionary = open('data/words.txt').read().split('\n')
 
 # Testing
 print '\nTest Samples :\n'
