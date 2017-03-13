@@ -4,4 +4,4 @@
 
 - __hashtag.py__ : A program to split hashtags from a list of tweets
 
-- __word_sense_disambiguation.ipnb__ : Lesk algorithm for WSD
+- __word_sense_disambiguation.ipynb__ : Lesk algorithm for WSD
