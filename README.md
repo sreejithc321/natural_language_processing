@@ -5,3 +5,7 @@
 - __hashtag.py__ : A program to split hashtags from a list of tweets
 
 - __word_sense_disambiguation.ipynb__ : Lesk algorithm for WSD
+
+- __Topic Modeling.ipynb__ : Topic Modeling - LDA, LSI (link)
+
+- __Clustering.ipynb__ : Clustering - KMeans (link)
