@@ -9,3 +9,5 @@
 - __Topic Modeling.ipynb__ : Topic Modeling - LDA, LSI (link)
 
 - __Clustering.ipynb__ : Clustering - KMeans (link)
+
+- __pos_taggers.ipynb__ : CRF and Decision Tree based POS taggers
