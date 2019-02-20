@@ -11,3 +11,5 @@
 - __Clustering.ipynb__ : Clustering - KMeans (link)
 
 - __pos_taggers.ipynb__ : CRF and Decision Tree based POS taggers
+
+- __glove.ipynb__ : Word embedding (Glove)
