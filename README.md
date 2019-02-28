@@ -14,4 +14,4 @@
 
 - __glove.ipynb__ : Word embedding (Glove)
 
--__qa.ipynb__ : Question and Answer generation from text
+- __qa.ipynb__ : Question and Answer generation from text
