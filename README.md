@@ -13,3 +13,5 @@
 - __pos_taggers.ipynb__ : CRF and Decision Tree based POS taggers
 
 - __glove.ipynb__ : Word embedding (Glove)
+
+-__qa.ipynb__ : Question and Answer generation from text
