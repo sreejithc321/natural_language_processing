@@ -6,9 +6,9 @@
 
 - __word_sense_disambiguation.ipynb__ : Lesk algorithm for WSD
 
-- __Topic Modeling.ipynb__ : Topic Modeling - LDA, LSI (link)
+- __Topic Modeling.ipynb__ : Topic Modeling - LDA, LSI
 
-- __Clustering.ipynb__ : Clustering - KMeans (link)
+- __Clustering.ipynb__ : Clustering - KMeans 
 
 - __pos_taggers.ipynb__ : CRF and Decision Tree based POS taggers
 
