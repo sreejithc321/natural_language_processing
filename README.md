@@ -16,5 +16,5 @@
 
 - __qa.ipynb__ : Question and Answer generation from text
 
-- Document classification 
+- Document classification : 
 https://github.com/sreejithc321/document_classification
