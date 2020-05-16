@@ -21,3 +21,6 @@ https://github.com/sreejithc321/document_classification
 
 - Question Classifier : 
 https://github.com/sreejithc321/stack_exchange_question_classifier
+
+- Analyze and Visualize Twitter Data : 
+https://github.com/sreejithc321/Twitter
