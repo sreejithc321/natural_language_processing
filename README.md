@@ -15,3 +15,6 @@
 - __glove.ipynb__ : Word embedding (Glove)
 
 - __qa.ipynb__ : Question and Answer generation from text
+
+- Document classification 
+https://github.com/sreejithc321/document_classification
