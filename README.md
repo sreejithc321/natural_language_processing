@@ -16,6 +16,8 @@
 
 - __qa.ipynb__ : Question and Answer generation from text
 
+- __Text_Classification.ipynb__ : Ktrains based classification (Hugging face, Eli5)
+
 - Document classification : 
 https://github.com/sreejithc321/document_classification
 
